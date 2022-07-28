@@ -178,7 +178,7 @@ height="2.1520002187226597in"}
 
     -   Infrastructure as Code - Terratest
 
-![](media/image2.jpg){width="6.5in" height="4.736083770778652in"}
+![](media/image3.jpg){width="6.5in" height="4.736083770778652in"}
 
 -   Jenkins Checkout the source code from git
 
