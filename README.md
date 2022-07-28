@@ -7,7 +7,7 @@ Architecture diagram
 As per the primary requirement of the organization, this application
 will deploy on AWS cloud.
 
-<img src="media/image1.jpg" width="6.5in" height="4.794444444444444in"/>
+<img src="media/image1.jpg" width="6.5in" alt="4.794444444444444in"/>
 
 Features
 --------
@@ -146,7 +146,7 @@ Requirements and solution with tools
 -   **DevOps CICD Pipelines**
 
 <img src="media/image2.jpg" width="5.8316338582677165in"
-height="2.1520002187226597in" />
+alt="2.1520002187226597in" />
 
 -   Jenkins can be deploy on Management VPC host ( Jump Host).
 
@@ -178,7 +178,7 @@ height="2.1520002187226597in" />
 
     -   Infrastructure as Code - Terratest
 
-<img src="media/image3.jpg" width="6.5in" height="4.736083770778652in" />
+<img src="media/image3.jpg" width="6.5in" alt="4.736083770778652in" />
 
 -   Jenkins Checkout the source code from git
 
